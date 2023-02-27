@@ -938,6 +938,7 @@ public class ImageViewActivity extends AppCompatActivity implements
 
     String[] DeviceTypes =
             {
+                    "Gauss2 UC500C(MRNN)",
                     "Gauss2 UC130C(MRNN)",
                     "Gauss2 UC130M(MRNN)",
                     "xxxxxxxxxxxxxxxxxxx",
@@ -946,7 +947,6 @@ public class ImageViewActivity extends AppCompatActivity implements
                     "Gauss2 UC130M(MRYN)",
                     "xxxxxxxxxxxxxxxxxxx",
                     "Gauss2 UC320C(MRYN)",
-                    "Gauss2 UC500C(MRNN)",
                     "Gauss2 UC500M(MRNN)",
                     "Gauss2 UC500C(MRYN)",
                     "Gauss2 UC500M(MRYN)",
